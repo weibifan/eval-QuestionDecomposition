@@ -1,3 +1,4 @@
+EMNLP22 人工进行问题分解，使用GPT3 API进行回答
 # Is a Question Decomposition Unit All We Need?
 
 This repository contains the data and the code used to obtain the results in [Patel et al.](https://arxiv.org/pdf/2205.12538.pdf)
